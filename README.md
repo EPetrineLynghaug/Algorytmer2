@@ -6,7 +6,7 @@ In programming, a graph is a data structure that represents relationships betwee
 
 
 ## Types of Graphs
-  <summary><strong>Click to read more</strong></summary>
+<summary><strong>Click to read more</strong></summary>
 
 - **Directed Graph:** The relationship between nodes is one-way, meaning an edge goes from one node to another, like from node A to node B.
 - **Undirected Graph:** The relationship between nodes goes both ways, meaning the edge represents a bidirectional connection.
@@ -18,8 +18,8 @@ In programming, a graph is a data structure that represents relationships betwee
 </details>
 
 ## Applications of Graphs in Programming
-  <summary><strong>Click to read more</strong></summary>
-  
+<summary><strong>Click to read more</strong></summary>
+
 Graphs are widely used in various programming scenarios, such as:
 - **Social Networks:** Nodes represent users, and edges represent friendships or connections.
 - **Web Crawling:** Used to represent links between web pages for search engine indexing.

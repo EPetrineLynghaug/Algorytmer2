@@ -6,6 +6,7 @@ In programming, a graph is a data structure that represents relationships betwee
 
 
 ## Types of Graphs
+<details>
 <summary><strong>Click to read more</strong></summary>
 
 - **Directed Graph:** The relationship between nodes is one-way, meaning an edge goes from one node to another, like from node A to node B.

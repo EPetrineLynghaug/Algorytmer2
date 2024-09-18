@@ -19,6 +19,7 @@ In programming, a graph is a data structure that represents relationships betwee
 </details>
 
 ## Applications of Graphs in Programming
+<details>
 <summary><strong>Click to read more</strong></summary>
 
 Graphs are widely used in various programming scenarios, such as:
@@ -30,6 +31,7 @@ Graphs are widely used in various programming scenarios, such as:
 
 
 ## Depth-First Search (DFS)
+<details>
 <summary><strong>Click to read more</strong></summary>
 DFS explores as far as possible along each branch before backtracking. It uses a stack or recursion to traverse a graph.
 
@@ -54,6 +56,7 @@ DFS explores as far as possible along each branch before backtracking. It uses a
 ## Breadth-First Search (BFS)
 FS explores all neighbors of a node before moving deeper. It uses a queue to track the current level of the graph and explores the graph level by level.
 
+<details>
 <summary><strong>Click to read more</strong></summary>
 
 ### How BFS Works:
@@ -98,6 +101,7 @@ Both DFS (Depth-First Search) and BFS (Breadth-First Search) are widely used in 
  
 
 ## When to Use DFS
+<details>
  <summary><strong>Click to read more</strong></summary>
 
 - **Deep Exploration:** Use DFS when you're interested in exploring all possible paths or diving deep into a graph. This is particularly useful when you need to reach the farthest node or when searching for any solution in a large search space (e.g., solving puzzles or finding all paths in a maze).
@@ -106,6 +110,7 @@ Both DFS (Depth-First Search) and BFS (Breadth-First Search) are widely used in 
 </details>
 
 ## When to Use BFS
+<details>
  <summary><strong>Click to read more</strong></summary>
 
 - **Shortest Path (Unweighted Graph):** Use BFS when you're specifically interested in finding the shortest path in an unweighted graph. Since BFS explores nodes level by level, it guarantees finding the shortest route between nodes.

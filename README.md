@@ -97,7 +97,7 @@ Understanding how graphs and tree-based algorithms like DFS and BFS function is 
 
 ## When to Use DFS or BFS
 Both DFS (Depth-First Search) and BFS (Breadth-First Search) are widely used in various scenarios such as graph traversal, pathfinding, searching for specific nodes in a network, or solving mazes. The choice between the two depends on the problem you're solving and the structure of the data.
-<details>
+
  
 
 ## When to Use DFS
